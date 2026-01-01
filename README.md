@@ -1,11 +1,9 @@
 
 
-```markdown
 # Stone-Paper-Scissor 🪨📄✂️
 
 A simple and fun **web-based Stone-Paper-Scissor (Rock-Paper-Scissors)** game where you can play against the computer. This project is built using **HTML**, **CSS**, and **JavaScript** .
 
----
 
 ## 🎮 Game Overview
 
@@ -14,7 +12,6 @@ Stone-Paper-Scissor is a classic hand game where:
 - **Scissor** cuts **Paper**
 - **Paper** covers **Stone**
 
----
 
 ## 📂 Project Structure
 
@@ -25,10 +22,7 @@ Stone-Paper-Scissor is a classic hand game where:
 ├── style.css          # Styles for the UI
 └── script.js          # Game logic (JavaScript)
 
-````
-:contentReference[oaicite:3]{index=3}
 
----
 
 ## 🚀 How to Run the Game
 
@@ -44,7 +38,6 @@ Stone-Paper-Scissor is a classic hand game where:
 
 No server setup required — just open the HTML file and start playing.
 
----
 
 ## 🧠 How It Works
 
@@ -58,7 +51,6 @@ No server setup required — just open the HTML file and start playing.
 
 All logic is handled in **script.js**. 
 
----
 
 ## 🛠️ Technologies Used
 
@@ -66,4 +58,3 @@ All logic is handled in **script.js**.
 * **CSS** – Styling
 * **JavaScript** – Game functionality and logic
 
----
