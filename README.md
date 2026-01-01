@@ -21,16 +21,12 @@ Stone-Paper-Scissor is a classic hand game where:
 ├── index.html         # Main HTML file
 ├── style.css          # Styles for the UI
 └── script.js          # Game logic (JavaScript)
-
+```
 
 
 ## 🚀 How to Run the Game
 
 1. **Clone** the repository:
-
-   ```bash
-   git clone https://github.com/gravityonmars/Stone-Paper-Scissor.git
-````
 
 2. **Open** the `index.html` file in your web browser.
 
